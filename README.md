@@ -30,12 +30,11 @@ And the [MCForecastTools toolkit](Resources/MCForecastTools.py)
 
 ### API keys
 Please note this tool requires API keys to perform successful operations with the Alpaca Markets and Alternative Free 
-Crypto APIs. After you clone this repository and check out this code, you must create a `.env` file on the root directory 
+Crypto APIs. After you clone this repository and check out this code, you must create an `.env` file on the root directory 
 with the corresponding keys.
 
 Sample `.env` file:
 ```
-NASDAQ_API_KEY="YOUR_KEY_HERE"
 ALPACA_API_KEY="YOUR_KEY_HERE"
 ALPACA_SECRET_KEY="YOUR_KEY_HERE"
 ```
