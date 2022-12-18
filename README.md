@@ -7,8 +7,8 @@ Use this tool to visualize an individual's savings composed by investments in sh
 if the money saved thus far is enough as an emergency fund.
 
 ## Retirement Planning Tool
-Given an in initial investment amount, use this tool to fetch historical closing prices for a retirement portfolio 
-composed of stocks and bonds. Then visualise the projected performance of the portfolio at 30 years.
+Use this tool to fetch historical closing prices for a retirement portfolio composed of stocks and bonds. Then, given an 
+in initial investment amount, visualise the projected performance of the portfolio at 30 years.
 
 ## Assumptions
 - The average household income for each individual is `$12,000`.
